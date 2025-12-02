@@ -106,7 +106,7 @@ I was born in Salinas, Minas Gerais, and raised in Paulínia, São Paulo. I've b
 
 ***
 
-### 👨🏼‍💻 Contatos
+### 👨🏼‍💻 Contacts
 
 📥 **`E-mail: joao.vmarconleite@gmail.com`**  
 🔗 **`Linkedin: https://linkedin.com/in/jvmrcl`**
