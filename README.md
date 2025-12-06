@@ -1,12 +1,10 @@
-## 🌵 João Leite
-
-**`Front-end Software Developer**
+**Front-end Software Developer**
 
 I was born in Salinas, Minas Gerais, and raised in Paulínia, São Paulo. I've been a self-taught front-end developer for over 3 years, specializing in creating minimalist, accessible, and high-performance web applications using React, Solid.js, and Tailwind.
 
 ***
 
-### 🧰 Tools & Languages
+### Tools & Languages
 
 <img 
     align="left" 
@@ -106,7 +104,7 @@ I was born in Salinas, Minas Gerais, and raised in Paulínia, São Paulo. I've b
 
 ***
 
-### 👨🏼‍💻 Contacts
+### Contacts
 
 📥 **`E-mail: joao.vmarconleite@gmail.com`**  
 🔗 **`Linkedin: https://linkedin.com/in/jvmrcl`**
